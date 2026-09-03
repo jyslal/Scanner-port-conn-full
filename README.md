@@ -154,7 +154,7 @@ Ce projet est open-source – vous pouvez l'utiliser, le modifier et le partager
 
 ---
 
-## 🙏 Remerciements
+## 🙏 Information
 
 Développé en solo, en une semaine, avec pour seules armes :  
 **Python**, **Scapy**, **la curiosité** et **beaucoup de café** ☕.
@@ -163,7 +163,7 @@ Développé en solo, en une semaine, avec pour seules armes :
 
 ## ✍️ Auteur
 
-- **Votre Nom** – [GitHub](https://github.com/ton-compte)
+- **Jyslal** –
 
 ---
 
